@@ -28,7 +28,7 @@
     "@types/vue-chartkick": "^0.5.0",
     "@vue/cli-plugin-eslint": "^3.6.0",
     "@vue/cli-plugin-typescript": "^3.6.0",
-    "@vue/cli-service": "^3.6.0",
+    "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-standard": "^4.0.0",
     "@vue/eslint-config-typescript": "^4.0.0",
     "babel-eslint": "^10.0.1",
